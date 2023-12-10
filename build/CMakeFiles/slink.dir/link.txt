@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/slink.dir/main.cpp.o CMakeFiles/slink.dir/node.cpp.o "CMakeFiles/slink.dir/linked-list.cpp.o" -o slink 
